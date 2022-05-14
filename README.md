@@ -1,13 +1,13 @@
 สวัสดีครับผม เซฟ
 
 <details><summary><strong>Programming</strong></summary><br />
-  Programming language
+  Programming language<br />
     -javaScript<br />
     -php<br />
     -sql<br />
     -java<br />
     -dart<br />
-  Framework
+  Framework<br />
     -laravel (Advance)<br />
     -nestjs<br />
     -express<br />
