@@ -2,19 +2,20 @@
 
 <details><summary><strong>Programming</strong></summary><br />
   Programming language
-    -javaScript
-    -php
-    -sql
-    -java
-    -dart
+    -javaScript<br />
+    -php<br />
+    -sql<br />
+    -java<br />
+    -dart<br />
   Framework
-    -laravel (Advance)
-    -nestjs
-    -express
-    -vuejs
-    -reactjs
-    -spring
-    -flutter
+    -laravel (Advance)<br />
+    -nestjs<br />
+    -express<br />
+    -vuejs<br />
+    -reactjs<br />
+    -spring<br />
+    -flutter<br />
+</details>
 
 <details><summary><strong>projects</strong></summary><br />
 [เว็บสร้าง มีม Make-meme](https://github.com/safepawin/make-meme)<br />
