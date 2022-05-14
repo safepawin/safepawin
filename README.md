@@ -1,19 +1,20 @@
 สวัสดีครับผม เซฟ
 
-Programming languate
--javaScript
--php
--sql
--java
--dart
-Framework
--laravel (Advance)
--nestjs
--express
--vuejs
--reactjs
--spring
--flutter
+<details><summary><strong>Programming</strong></summary><br />
+  Programming language
+    -javaScript
+    -php
+    -sql
+    -java
+    -dart
+  Framework
+    -laravel (Advance)
+    -nestjs
+    -express
+    -vuejs
+    -reactjs
+    -spring
+    -flutter
 
 <details><summary><strong>projects</strong></summary><br />
 [เว็บสร้าง มีม Make-meme](https://github.com/safepawin/make-meme)<br />
