@@ -1,6 +1,6 @@
 สวัสดีครับผม เซฟ
 
-<Projects>
+<details><summary><strong>projects</strong></summary>
 -[make-meme](https://github.com/safepawin/make-meme)
 
-</Projects>
+</details>
