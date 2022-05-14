@@ -1,6 +1,6 @@
 สวัสดีครับผม เซฟ
 
-<details><summary><strong>projects</strong></summary><br /><br />
+<details><summary><strong>projects</strong></summary><br />
 [เว็บสร้าง มีม Make-meme](https://github.com/safepawin/make-meme)<br />
 [เว็บ เกมทดสอบความจำ Memory-test-game](https://github.com/safepawin/memory_game)<br />
 [เว็บ รายงานคนโกง Report Backlist seller](https://github.com/safepawin/blacklist-report)<br />
