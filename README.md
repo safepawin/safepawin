@@ -27,4 +27,4 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=safepawin.visitor-badge)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=safepawin)](https://github.com/safepawin/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safepawin&layout=compact)](https://github.com/safepawin/)
