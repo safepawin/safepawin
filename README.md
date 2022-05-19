@@ -27,29 +27,4 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=safepawin.visitor-badge)
 
-<p align="left" dir="auto">
-   <a href="#">
-    <img src="/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="max-width: 100%;">
-  </a>  
-  <a href="#">
-    <img src="/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/flutter.svg" alt="flutter" style="max-width: 100%;">
-  </a>  
-  <a href="#">
-    <img src="/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/jquery.svg" alt="jquery" style="max-width: 100%;">
-  </a>  
-  <a href="#">
-    <img src="/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/laravel.svg" alt="laravel" style="max-width: 100%;">
-  </a>  
-  <a href="#">
-    <img src="/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="max-width: 100%;">
-  </a>  
-  <a href="#">
-    <img src="/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/react.svg" alt="react" style="max-width: 100%;">
-  </a>  
-   <a href="#">
-    <img src="/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/unity.svg" alt="unity" style="max-width: 100%;">
-  </a>  
-  <a href="#">
-    <img src="/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/vue.svg" alt="vue" style="max-width: 100%;">
-  </a>  
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=safepawin)](https://github.com/safepawin/)
