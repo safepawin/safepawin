@@ -24,3 +24,5 @@
 [เว็บ แพลตฟอมสำหรับวางขายสินค้า(โปรเจ็คจบ) platform-for-seller](https://github.com/safepawin/laravel-prodjectend)<br />
 [เว็บ รายงานยอดผู้ป่วยโควิด Covid-Checker](https://github.com/safepawin/laravel-prodjectend)<br />
 </details>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=safepawin.visitor-badge)
